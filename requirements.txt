@@ -8,4 +8,4 @@ requests
 # For torch, specify the CPU version for compatibility with Streamlit Cloud
 
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.1.0+cpu
+torch
