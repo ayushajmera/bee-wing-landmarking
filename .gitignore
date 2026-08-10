@@ -1,0 +1,12 @@
+# PyTorch model files
+*.pth
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE / OS specific
+.vscode/
+.idea/
+.DS_Store
